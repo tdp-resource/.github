@@ -1,12 +1,3 @@
-## Hi there 👋
+腾云先锋（TDP，Tencent Cloud Developer Pioneer）是腾讯云GTS官方组建并运营的技术开发者群体。
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+此资源集合非官方组织发布，且官方不参与任何项目运营事宜。下属仓库均由TDP成员本着开源精神发起或共建，仓库使用及贡献者均不限于TDP成员。
