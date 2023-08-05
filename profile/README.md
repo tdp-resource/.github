@@ -2,4 +2,4 @@
 
 土豆片控制台面板 https://github.com/orgs/open-tdp/repositories
 
-Powered by [Open TDP](https://github.com/open-tdp)
+Powered by [Open TDP](https://github.com/opentdp)
